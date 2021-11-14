@@ -8,3 +8,4 @@ All projects have steps which are numbered in the file along with a brief summar
 * [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/richardkang96/DataCampProjects/blob/main/handwashing.ipynb)
 ## SQL
 * [Analyze International Debt Statistics](https://github.com/richardkang96/DataCampProjects/blob/main/world_debt.ipynb)
+* [What and Where Are the World's Oldest Businesses?](https://github.com/richardkang96/DataCampProjects/blob/main/oldest.ipynb)
